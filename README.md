@@ -1,1 +1,1 @@
-# 3mtt-respensive-landing-page
+3mtt-respensive-landing-page
